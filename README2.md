@@ -1,11 +1,7 @@
-# hacktoberHello 
-#Hello peeps, today we are doing hackctoberfest @dsckabu. 
-#Opensource is sooo coool?...
+# hacktoberFestHello 
+#contribe to open source@DSCKABARAK 
 
-```c#
-class Program {
-   public static void Main(String[] args) {
-      System.Console.WriteLine("Hello Haron")!
-   }
-}
-```
+`python code
+print("hello world");
+'
+
